@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amber 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Amber+%F0%9F%91%8B;ECE+meets+CSE.+No+lane%2C+just+range.;Currently+breaking+useEffect+and+LeetCode+mediums;Antenna+engineer+turned+frontend+dev)](https://git.io/typing-svg)
 
 ### Built antennas that talk to satellites. Now building UIs that talk back.
 
@@ -95,6 +95,14 @@ const amber = {
 ![CST](https://img.shields.io/badge/CST%20Microwave%20Studio-004B87?style=flat-square)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asgeeketteamber&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=asgeeketteamber&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgeeketteamber&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ### 📌 Featured Projects
 
@@ -106,6 +114,15 @@ const amber = {
 
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asgeeketteamber&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=asgeeketteamber&color=blueviolet&style=flat-square&label=Profile+Views)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asgeeketteamber&theme=tokyo-night&hide_border=true" />
+</p>
 
 <div align="center">
 
