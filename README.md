@@ -10,7 +10,7 @@
 
 `React` · `TypeScript` · `Node.js` · `Python` · `C++`.`JavaScript`,`Tailwind CSS`,`Flask`,`SQL`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/amber-sharma-544748256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amber-sharma-544748256)
 [![Blog](https://img.shields.io/badge/Blog-thoughtcircuit.in-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://thoughtcircuit.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asgeeketteamber)
 
@@ -104,10 +104,6 @@ const amber = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgeeketteamber&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgeeketteamber&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ### 📌 Featured Projects
 
 | Project | What it does |
@@ -119,9 +115,8 @@ const amber = {
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=asgeeketteamber&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=asgeeketteamber&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asgeeketteamber/asgeeketteamber/output/github-contribution-grid-snake-dark.svg">
     <img alt="snake animation" src="https://raw.githubusercontent.com/asgeeketteamber/asgeeketteamber/output/github-contribution-grid-snake.svg">
