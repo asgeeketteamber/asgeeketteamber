@@ -2,7 +2,7 @@
 
 # Hi, I'm Amber 👋
 
-### ECE Student · Frontend Developer in Progress · 
+### Built antennas that talk to satellites. Now building UIs that talk back.
 
 </div>
 
@@ -17,21 +17,13 @@
 </div>
 
 ---
-
 ### 🌱 About Me
 
-```js
-const amber = {
-  role: "Final-Year ECE Student @ JIIT Noida (2022–2026)",
-  currentFocus: ["React", "TypeScript", "Modern ES6", "Auth Flows & JWT"],
-  learning: ["DSA — pattern-wise (NeetCode 150)", "Node.js / Express", "System Design"],
-  background: ["Antenna & RF Engineering (HFSS, CST)", "Computer Vision (YOLOv8, SAHI, ByteTrack)"],
-  pastExperience: "Software Intern @ SYSTACC Technologies (Python, MySQL)",
-  leadership: "Vice Chairperson, IEEE APS Student Branch Chapter — JIIT",
-  writesAt: "thoughtcircuit.in",
-  status: "building in public, one commit at a time 🚀",
-};
-````
+Half antenna engineer, half frontend dev — I don't pick a lane, I use both.
+ECE gave me the fundamentals (RF, signal theory, EM simulation), CSE gave me
+the itch to build things that ship. I go wherever the problem takes me.
+
+
 
 * 🔨 Currently building: **React projects** — a flashcard app and **Recall** (a Chrome extension for spaced-repetition active recall)
 * 🧠 Practicing DSA pattern-by-pattern through **NeetCode 150** in C++ and python
@@ -45,6 +37,16 @@ const amber = {
 - THz metamaterial absorber design and characterization
 
 ---
+const amber = {
+  role: "Final-Year ECE Student @ JIIT Noida (2022–2026)",
+  currentFocus: ["React", "TypeScript", "Modern ES6", "Auth Flows & JWT"],
+  learning: ["DSA — pattern-wise (NeetCode 150)", "Node.js / Express", "System Design basics"],
+  background: ["Antenna & RF Engineering (HFSS, CST)", "Computer Vision (YOLOv8, SAHI, ByteTrack)"],
+  pastExperience: "Software Intern @ SYSTACC Technologies (Python, MySQL)",
+  leadership: "Vice Chairperson, IEEE APS Student Branch Chapter — JIIT",
+  writesAt: "thoughtcircuit.in",
+  status: "building in public, one commit at a time 🚀",
+};
 
 ### 🛠️ Tech Stack
 
@@ -85,8 +87,8 @@ const amber = {
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/YOUR_USERNAME)
 
-**RF & Antenna Engineering**
 
+**RF & Antenna Engineering**
 ![HFSS](https://img.shields.io/badge/ANSYS%20HFSS-FFB71B?style=flat-square)
 ![CST](https://img.shields.io/badge/CST%20Microwave%20Studio-004B87?style=flat-square)
 
