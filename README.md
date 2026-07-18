@@ -37,7 +37,7 @@ the itch to build things that ship. I go wherever the problem takes me.
 - THz metamaterial absorber design and characterization
 
 ---
-```
+```js
 const amber = {
   role: "Final-Year ECE Student @ JIIT Noida (2022–2026)",
   currentFocus: ["React", "TypeScript", "Modern ES6", "Auth Flows & JWT"],
