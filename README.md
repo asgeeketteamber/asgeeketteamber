@@ -119,12 +119,8 @@ const amber = {
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asgeeketteamber&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=asgeeketteamber&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asgeeketteamber&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asgeeketteamber/asgeeketteamber/output/github-contribution-grid-snake-dark.svg">
@@ -132,7 +128,6 @@ const amber = {
   </picture>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=asgeeketteamber&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Profile views](https://komarev.com/ghpvc/?username=asgeeketteamber&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <p align="center">
