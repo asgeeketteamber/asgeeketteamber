@@ -37,7 +37,12 @@ const amber = {
 * 🧠 Practicing DSA pattern-by-pattern through **NeetCode 150** in C++ and python
 * ✍️ I write about what I'm learning at [thoughtcircuit.in](https://thoughtcircuit.in)
 * 📡 Background in antenna design & EM simulation — designed a triple-band microstrip patch antenna (5G NR n77, C-band, WLAN)
-* 👁️ Built a real-time object detection pipeline (YOLOv8 + SAHI + ByteTrack) 
+* 👁️ Built a real-time object detection pipeline (YOLOv8 + SAHI + ByteTrack)
+* 📡 **RF & Antenna Design**
+- Designed a triple-band microstrip patch antenna on FR-4 substrate targeting 5G NR n77, C-band, and IEEE 802.11a/ac (WLAN)
+- EM simulation & modeling in **ANSYS HFSS** and **CST Microwave Studio**
+- Concepts: impedance matching, S-parameters, VSWR, radiation pattern analysis, bandwidth optimization, substrate selection
+- THz metamaterial absorber design and characterization
 
 ---
 
@@ -67,10 +72,23 @@ const amber = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+**Computer Vision & ML**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-3776AB?style=flat-square)
+![SAHI](https://img.shields.io/badge/SAHI-006400?style=flat-square)
+
 **Design & Content**
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/YOUR_USERNAME)
+
+**RF & Antenna Engineering**
+
+![HFSS](https://img.shields.io/badge/ANSYS%20HFSS-FFB71B?style=flat-square)
+![CST](https://img.shields.io/badge/CST%20Microwave%20Studio-004B87?style=flat-square)
 
 ---
 
