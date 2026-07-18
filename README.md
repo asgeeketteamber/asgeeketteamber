@@ -2,7 +2,7 @@
 
 # Hi, I'm Amber 👋
 
-### Final-Year ECE Student · Frontend Developer in Progress · DSA Grinder
+### ECE Student · Frontend Developer in Progress · 
 
 </div>
 
@@ -78,18 +78,9 @@ const amber = {
 | Project | What it does |
 |---|---|
 | **[Recall](https://github.com/asgeeketteamber)** | Chrome extension for active recall + spaced repetition |
-| **[JobTrackr](https://github.com/asgeeketteamber)** | React-based job application tracker |
-| **AI Resume Reviewer** | Python + Streamlit + Gemini API tool that reviews resumes |
 | **Sorting Visualizer** | Interactive visualizer for sorting algorithms |
 | **VisDrone Detection Pipeline** | YOLOv8 + SAHI + ByteTrack pipeline for aerial object detection |
 
----
-
-### 📈 DSA Progress
-
-`NeetCode 150` — pattern-wise practice in C++
-Currently on: **Sliding Window & Stacks**
-Goal: recognize patterns in under 5 minutes, OA-ready.
 
 ---
 
