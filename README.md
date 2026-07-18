@@ -8,7 +8,7 @@
 
 <div align="center">
 
-`React` · `TypeScript` · `Node.js` · `Python` · `C++`
+`React` · `TypeScript` · `Node.js` · `Python` · `C++`.`JavaScript`,`Tailwind CSS`,`Flask`,`SQL`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Blog](https://img.shields.io/badge/Blog-thoughtcircuit.in-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://thoughtcircuit.in)
@@ -24,7 +24,7 @@
 const amber = {
   role: "Final-Year ECE Student @ JIIT Noida (2022–2026)",
   currentFocus: ["React", "TypeScript", "Modern ES6", "Auth Flows & JWT"],
-  learning: ["DSA — pattern-wise (NeetCode 150)", "Node.js / Express", "System Design basics"],
+  learning: ["DSA — pattern-wise (NeetCode 150)", "Node.js / Express", "System Design"],
   background: ["Antenna & RF Engineering (HFSS, CST)", "Computer Vision (YOLOv8, SAHI, ByteTrack)"],
   pastExperience: "Software Intern @ SYSTACC Technologies (Python, MySQL)",
   leadership: "Vice Chairperson, IEEE APS Student Branch Chapter — JIIT",
@@ -33,11 +33,11 @@ const amber = {
 };
 ````
 
-* 🔨 Currently building: **React projects** — a flashcard app, **Recall** (a Chrome extension for spaced-repetition active recall), and **JobTrackr** (job application tracker)
-* 🧠 Practicing DSA pattern-by-pattern through **NeetCode 150** in C++ — sliding window & stacks in progress
+* 🔨 Currently building: **React projects** — a flashcard app and **Recall** (a Chrome extension for spaced-repetition active recall)
+* 🧠 Practicing DSA pattern-by-pattern through **NeetCode 150** in C++ and python
 * ✍️ I write about what I'm learning at [thoughtcircuit.in](https://thoughtcircuit.in)
 * 📡 Background in antenna design & EM simulation — designed a triple-band microstrip patch antenna (5G NR n77, C-band, WLAN)
-* 👁️ Built a real-time object detection pipeline (YOLOv8 + SAHI + ByteTrack) for Botlab Dynamics
+* 👁️ Built a real-time object detection pipeline (YOLOv8 + SAHI + ByteTrack) 
 
 ---
 
@@ -70,6 +70,7 @@ const amber = {
 **Design & Content**
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/YOUR_USERNAME)
 
 ---
 
